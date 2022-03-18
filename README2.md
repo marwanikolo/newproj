@@ -12,5 +12,7 @@ You will then register for a free account on CircleCi and connect your Github ac
 
 The project will also include writing documentation and runbooks covering the operations of the deployment process. Those runbooks will serve as a way to communicate with future developers and anybody involved in diagnosing outages of the Full-Stack application.
 
-# AWS S3
+
+
+The project is available at
 http://tst123.s3-website-us-east-1.amazonaws.com/
